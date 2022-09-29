@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664298965 source:e:\semester 2\algoritma dan pemrograman\stack kasus paket\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1664383187 source:e:\semester 3\struktur data\stack kasus paket\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
